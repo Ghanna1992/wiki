@@ -1,5 +1,6 @@
 port: 3000
 
+
 db:
   type: postgres
   host: dpg-cvs2238gjchc73anf090-a
@@ -9,3 +10,6 @@ db:
   db: vita_discordia_wiki_db
 
 logLevel: info
+
+paths:
+  assets: false
