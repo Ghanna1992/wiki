@@ -5,7 +5,7 @@ db:
   host: dpg-cvs2238gjchc73anf090-a
   port: 5432
   user: vita_discordia_wiki_db_user
-  pass: supersecurepass
+  pass: 5PFarqQt4xgkGgKtbrcqZY1WkZOuLARa
   db: vita_discordia_wiki_db
 
 logLevel: info
